@@ -43,4 +43,7 @@ The dataset is from the Mayo Clinic PBC study. It includes 418 patients and feat
 ## Authors
 
 - [Swarada Joshi](https://github.com/SwaradaJoshi20)
+- [Vedant Dusing](https://github.com/VedantRD007)
+
+
 - [Vedant Dusing](https://github.com/)
